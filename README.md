@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kandar-dev/docgrab/main/assets/logo.png" alt="DocGrab" width="200"/>
+<p>
+
+**Made by**
+
+<img src="https://raw.githubusercontent.com/Kandar-dev/docgrab/main/assets/logo.svg" alt="Kandar" width="80"/>
+
+</p>
 
 # DocGrab
 
@@ -218,7 +224,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 <div align="center">
 
 **Star us on GitHub** ⭐ • **Report bugs** 🐛 • **Request features** 💡
-
-Made with ❤️ by [Kandar](https://kandar.io)
 
 </div>
